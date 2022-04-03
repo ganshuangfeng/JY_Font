@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMFont", "BMFont.csproj", "{FE5473DC-DA7C-1E9B-6BCE-42F9D4435EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMFont.Plugins", "BMFont.Plugins.csproj", "{0F94C2BD-09F0-4402-E013-837F21659F66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMFont.Editor", "BMFont.Editor.csproj", "{B482627F-6A15-798E-D36F-307202AAE5B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5473DC-DA7C-1E9B-6BCE-42F9D4435EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5473DC-DA7C-1E9B-6BCE-42F9D4435EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5473DC-DA7C-1E9B-6BCE-42F9D4435EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5473DC-DA7C-1E9B-6BCE-42F9D4435EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F94C2BD-09F0-4402-E013-837F21659F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F94C2BD-09F0-4402-E013-837F21659F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F94C2BD-09F0-4402-E013-837F21659F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F94C2BD-09F0-4402-E013-837F21659F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B482627F-6A15-798E-D36F-307202AAE5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B482627F-6A15-798E-D36F-307202AAE5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B482627F-6A15-798E-D36F-307202AAE5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B482627F-6A15-798E-D36F-307202AAE5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
